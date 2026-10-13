@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YaPlayer
+Comment=Lightweight Rust & GTK4 music player
+Exec=yaplayer
+Icon=/usr/share/pixmaps/yaplayer.png
+Terminal=false
+Type=Application
+Categories=Audio;Music;Player;
