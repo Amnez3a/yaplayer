@@ -13,6 +13,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 
+<div>
+<img src="./photo1.jpg" width="500" alt="YaPlayer Logo">
+<img src="./photo2.jpg" width="500" alt="YaPlayer Logo">
+</div>
+
 
 </div>
 
